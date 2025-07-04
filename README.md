@@ -17,7 +17,7 @@
 💼 J’ai participé à plusieurs projets professionnels (apps mobiles, dashboards, APIs internes), souvent sous NDA.  
 🎯 Mon objectif : partager du code open-source dès que possible.
 
-🔗 [Voir mon LinkedIn](https://linkedin.com/in/killianmarchand) • ✉️ killianmarchand.dev@gmail.com
+🔗 [Voir mon LinkedIn](https://www.linkedin.com/in/killian-marchand-5692a0195/) • ✉️ killianmarchand.dev@gmail.com
 
 ---
 
@@ -47,7 +47,7 @@ Backend:
 
 ### 🔗 Me retrouver en ligne
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/killianmarchand)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/killian-marchand-5692a0195/)
 
 ### 📈 Mes stats GitHub
 
