@@ -17,7 +17,7 @@
 💼 J’ai participé à plusieurs projets professionnels (apps mobiles, dashboards, APIs internes), souvent sous NDA.  
 🎯 Mon objectif : partager du code open-source dès que possible.
 
-🔗 [Voir mon LinkedIn](https://www.linkedin.com/in/killian-marchand-5692a0195/) • ✉️ killianmarchand.dev@gmail.com
+🔗 [Voir mon LinkedIn](https://www.linkedin.com/in/killian-marchand-5692a0195/) • 
 
 ---
 
