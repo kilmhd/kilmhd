@@ -9,13 +9,15 @@
 
 ### 🎯 À propos de moi
 
-💡 Je suis un développeur **fullstack** passionné, spécialisé en :
-- 📱 **Flutter** pour des apps performantes & multiplateformes
-- 🌐 **Vue.js** pour des interfaces web réactives
-- ⚙️ **FastAPI** pour des backends rapides et scalables
+Salut, moi c’est Killian ! 👋
 
-💼 J’ai participé à plusieurs projets professionnels (apps mobiles, dashboards, APIs internes), souvent sous NDA.  
-🎯 Mon objectif : partager du code open-source dès que possible.
+Développeur web & mobile passionné, j’adore transformer des idées en applications modernes, intuitives et performantes.
+
+Que ce soit avec Vue.js, Flutter, Python ou d’autres technos innovantes, je conçois des interfaces fluides, des backends solides et des outils qui répondent vraiment aux besoins des utilisateurs.
+
+Grâce à la diversité des projets sur lesquels j’ai travaillé – de l’IoT à l’apprentissage assisté par robot, en passant par des dashboards métiers ou des applis mobiles connectées – j’ai développé une vraie capacité à m’adapter rapidement, résoudre les problèmes efficacement, et apporter des solutions concrètes dès les premières phases d’un projet.
+
+Toujours curieux, toujours en veille, j’aime relever de nouveaux défis techniques, collaborer avec des équipes engagées, et créer des expériences qui font la différence. 🚀
 
 🔗 [Voir mon LinkedIn](https://www.linkedin.com/in/killian-marchand-5692a0195/)
 🔗 [Mon PorteFolio](https://portefolio-os.vercel.app/)
